@@ -1,0 +1,45 @@
+[
+  {
+    "code": 1001,
+    "clientName": "Laura Pérez",
+    "amount": 2,
+    "redeemed": false
+  },
+  {
+    "code": 1002,
+    "clientName": "Mario Casas",
+    "amount": 1,
+    "redeemed": false
+  },
+  {
+    "code": 1003,
+    "clientName": "Belén Sánchez",
+    "amount": 1,
+    "redeemed": false
+  },
+  {
+    "code": 1004,
+    "clientName": "Casimiro Peláez",
+    "amount": 1,
+    "redeemed": false
+  },
+  {
+    "code": 1005,
+    "clientName": "Jorge Rojas",
+    "amount": 1,
+    "redeemed": false
+  },
+  {
+    "code": 1006,
+    "clientName": "Facundo O'Donnel",
+    "amount": 3,
+    "redeemed": false
+  },
+  {
+    "code": 1007,
+    "clientName": "María García",
+    "amount": 6,
+    "redeemed": false
+  },
+  { "email": "facundo@test.es", "password": "Upgrade1234!" }
+]
